@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+/*
+* Skeleton SASS V1.0
+* SASS Transcription of Skeleton Boilerplate
+* Originally authored by Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* Copyright 2013, Randell Quitain
+* 11/20/2013
+*/
+
+/* Table of Contents
+==================================================
+    #Base 960 Grid
+    #Tablet (Portrait)
+    #Mobile (Portrait)
+    #Mobile (Landscape)
+    #Clearing */
+
+/* #Base 960 Grid
+================================================== */
+@import "lib/skeleton/base-960.scss";
+
+/* #Tablet (Portrait)
+================================================== */
+@import "lib/skeleton/tablet-portrait.scss";
+
+/*  #Mobile (Portrait)
+================================================== */
+@import "lib/skeleton/mobile-portrait.scss";
+
+/* #Mobile (Landscape)
+================================================== */
+@import "lib/skeleton/mobile-landscape.scss";
+
+/* #Clearing
+================================================== */
+@import "lib/skeleton/clearing.scss";
